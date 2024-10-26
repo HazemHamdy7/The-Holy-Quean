@@ -32,7 +32,7 @@ class CustomCardQuran extends StatelessWidget {
           ),
         ),
         Positioned(
-          bottom: -25,
+          bottom: -20,
           right: 0,
           child: SvgPicture.asset(
             AppAssets.svgsQuran,
